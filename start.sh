@@ -1,4 +1,3 @@
 #!/bin/sh
-export FLASK_APP=main.py
-export FLASK_ENV=development
-flask run --port 5001 --reload 
+cd /home/simple_flask/src
+flask run --host 0.0.0.0 --port 5001 --reload 
