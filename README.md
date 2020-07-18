@@ -1,4 +1,4 @@
-# Simple gin golang app
+# Simple flask app
 Simple flask frondetd app get date trivia from API service (https://github.com/rephapeng/simple_gin.git)
 this app running using default configuration from flask and only consist root url (`http://0.0.0.0:5001/`)
 
