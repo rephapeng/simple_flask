@@ -5,7 +5,7 @@ ENV=$1
 REVISION=$2
 
 #Your private registry
-#REGISTRY="<your private registry>"
+REGISTRY="<your private registry>"
 APP_NAME="simple_flask"
 
 
